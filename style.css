@@ -164,10 +164,14 @@
 	
 	.action
 	{
-		margin:20px 10px;
+		margin:50px 10px;
 		text-align: center;
 	}
 	
+	.action a
+	{
+		padding: 0 10px;
+	}
 	
 	.hrblack
 	{
