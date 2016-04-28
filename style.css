@@ -1,0 +1,185 @@
+	.margin 
+	{   
+		color: aqua;
+		margin-top: 180px;
+		margin-bottom: 200px;
+	}
+	
+
+	
+	header
+	{
+		
+		height: 380px;
+		background-image: url("https://cloud.githubusercontent.com/assets/14492913/14877316/918545f0-0ce1-11e6-857c-86f83352106d.jpg");
+		background-repeat: no-repeat;
+		padding-top: 50px;
+		
+		//background-size: 400px;
+	}
+	
+	
+	
+	body
+	{	margin: 0;
+		padding-top: 380px;
+		font-family: "Microsoft YaHei UI Light";
+		
+	}
+
+	nav.navbar-inverse
+	{	
+	background: rgba(0,0,0,0.6);
+	border: none;
+
+	}
+
+
+	h1, h2
+	{	
+	
+		font-style: bold;
+		font-size: 50px;
+
+		
+	}
+
+
+
+	.as, .main 
+	{
+		position: relative;
+	
+	}
+
+
+
+	.main-nav-scrolled, header 
+	{
+		
+		position: fixed;
+		top: 0;
+		width: 100%;
+	}
+
+	
+
+	.main
+	{
+		padding-top: 110px;
+	}
+	
+	.wid 
+	{
+		width: 100%;
+		height: 100%;
+
+	}
+
+	#card
+	{
+		color: white;
+	}
+
+
+
+	.navbar
+	{
+		padding: 20px 20px;
+		margin-bottom: 0;
+	}
+
+	.bg-1 
+	{ 
+
+		background-color: white;
+			color: #ffffff;
+	}
+
+	.whoamiclass
+	{
+		color: black;
+		margin-top: 40px;
+		margin-bottom: 40px;
+	} 
+
+
+	.skillsclass, .workclass, .getintouchclass
+	{
+		color: black;
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+
+	#income
+	{
+		margin-bottom: 20px;
+	}
+
+	.whoamipara, .workText
+	{   color: aqua; 
+		margin: 40px 40px;
+		text-align: center;
+		
+	}
+
+	.content1 {
+		margin-top: 30px;
+		margin-bottom: 40px;
+		overflow: hidden;
+		
+	}
+
+
+	.content1 img 
+	{
+
+		margin-right: 10px;
+		margin-bottom: 40px;
+		float:left;
+
+	}
+
+	.text
+	{
+		
+		text-align: left;
+		margin-top: 2px;
+		margin-left: 100px;
+		color: aqua;
+	}
+
+	.text2
+	{
+		margin-top: 8px;
+	}
+
+	.black
+	{	margin-top: 10px;
+		text-align: left;
+		font-weight: 900;
+		font-size: 30;
+		color: black;
+	}
+
+	.hrblack
+	{
+		background-color: black;
+	}
+
+	#getintouch
+	{	
+		text-align: centre;
+		margin: 20px 20px;
+
+	}
+
+	#getintouch a
+	{
+	padding: 20px 10px;
+	}
+
+	#email
+	{
+		margin-top: 20px;
+	}
